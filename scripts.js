@@ -1,13 +1,12 @@
-let metal = "";
+let metal = "amF2YXNjcmlwdDogbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3NwYWNlYmFyX2NsaWNrZXJfZ2FtZScsICd7ImVtcHR5IjpmYWxzZSwidiI6MTAwMDAwMDAwMDAwMDAwMDAsIml0ZW1zIjpbeyJjb3N0IjozMCwibHZsIjowLCJ2YWx1ZSI6MC4yfSx7ImNvc3QiOjEyMCwibHZsIjowLCJ2YWx1ZSI6M30seyJjb3N0Ijo1MDAsImx2bCI6MCwidmFsdWUiOjIwfSx7ImNvc3QiOjYwMDAsImx2bCI6MH0seyJjb3N0IjoxMDAwMCwibHZsIjowLCJ2YWx1ZSI6MTUwfSx7ImNvc3QiOjIwMDAwMCwibHZsIjowLCJ2YWx1ZSI6NjAwfSx7ImNvc3QiOjgwMDAwMCwibHZsIjowLCJ2YWx1ZSI6MzUwMH0seyJjb3N0IjoyMDAwMDAwLCJsdmwiOjAsInZhbHVlIjoyNTAwMH0seyJjb3N0IjoxMDAwMDAwMCwibHZsIjowLCJ2YWx1ZSI6MTAwMDAwfSx7ImNvc3QiOjgwMDAwMDAwLCJsdmwiOjAsInZhbHVlIjoxMDAwMDAwfV19Jyk7IHdpbmRvdy5sb2NhdGlvbi5ocmVmPSJodHRwczovL2pzMTNrZ2FtZXMuY29tL2dhbWVzL3NwYWNlYmFyLWNsaWNrZXIvaW5kZXguaHRtbCI7";
 let tungsten = "";
 
 
-function script(script) {
-  if (script = "") {alert("!  " + atob())} 
+function writeScript(script) {
+  if (script = "spacebar") {alert("HACKER!!!!  " + atob(metal))} 
   else if (script = "") {alert("!  " + atob())}
   else if (script = "") {alert("!  " + atob())};
-}
-;
+};
 
 function boom() {
 mainBoom = document.createElement("div");
