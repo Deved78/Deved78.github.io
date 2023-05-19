@@ -36,7 +36,7 @@ alertSong = document.createElement("div");
 alertSong.innerHTML = "Now Playing " + song + "!";
 alertSong.classList.add("alertText")
 document.body.appendChild(alertSong);
-setInterval(function () {
+setTimeout(function () {
   alertSong.remove()
 }, 4900);
 //Alert To Song Playing
