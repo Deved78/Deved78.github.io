@@ -3,7 +3,7 @@ let tungsten = "";
 
 
 function writeScript(script) {
-  if (script = "spacebar") {alert("HACKER!!!!  " + atob(metal))} 
+  if (script = "spacebarclicker") {alert("HACKER!!!!  " + atob(metal))} 
   else if (script = "") {alert("!  " + atob())}
   else if (script = "") {alert("!  " + atob())};
 };
