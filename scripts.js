@@ -21,6 +21,10 @@ mainBoom.appendChild(mainBoomImage);
 mainBoomAudio.play();
 };
 
+function info() {
+console.warn("Hey, it's me, the dev. I didn't want to add full Firefox support because I honestly don't know whats wrong. You'll still be able to call functions through console though! Hopefully I add full Firefox support in the future, but for now. Enjoy!")
+};
+
 function playSong(song) {
 songPlayer = document.createElement("audio");
 songPlayer.src = "./media/" +song+ ".mp3";
